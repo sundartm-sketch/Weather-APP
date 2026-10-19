@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere - Weather Intelligence",
+  "description": "High-precision meteorological dashboard featuring real-time Open-Meteo forecasts, 7-day interactive outlook, temperature trend charts, and smart outfit and travel recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
